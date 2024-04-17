@@ -7,6 +7,7 @@ namespace WebApplication1.Controllers
     public class WeatherForecastController : ControllerBase
     {
         // this is a CI/CD pipeline
+        //This is the CI/CD pipeline in new branc CICDP1.
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
